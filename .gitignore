@@ -1,0 +1,13 @@
+/cmake-build-debug/
+
+#ignore everything
+*
+
+#unignore directories
+!*/
+
+#unignore source code files
+!*.cpp
+!*.h
+
+

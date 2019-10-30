@@ -1,0 +1,3 @@
+C:/Users/Thai/Documents/In Class BST/cmake-build-debug/CMakeFiles/In_Class_BST.dir
+C:/Users/Thai/Documents/In Class BST/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Thai/Documents/In Class BST/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Thai/Documents/In Class BST/bintree.cpp
+bintree.h
+C:/Users/Thai/Documents/In Class BST/bintree.h
+
+C:/Users/Thai/Documents/In Class BST/bintree.h
+iostream
+-
+string
+-
+data.h
+C:/Users/Thai/Documents/In Class BST/data.h
+
+C:/Users/Thai/Documents/In Class BST/data.h
+string
+-
+
